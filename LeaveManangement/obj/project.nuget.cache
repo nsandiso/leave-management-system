@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8i84DlpwmNc1jvTcR8jgt8prUZ8FH08FyxNo61YIrjvxULtNA8zXqAntK2+HHbXn+cqyPTA48/trKCW/ES77w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SANDISO\\Desktop\\LeaveManangement\\LeaveManangement\\LeaveManangement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SANDISO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\SANDISO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\SANDISO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\SANDISO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
